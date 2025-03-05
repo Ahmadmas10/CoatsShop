@@ -13,5 +13,10 @@ namespace CoatsShop
 		{
 
 		}
-	}
+
+        protected System.Void check_Click()
+        {
+
+        }
+    }
 }
