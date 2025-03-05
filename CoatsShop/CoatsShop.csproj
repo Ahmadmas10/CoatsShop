@@ -104,7 +104,6 @@
     <Content Include="Mail Box.aspx" />
     <Content Include="Sign in.aspx" />
     <Content Include="Sign up.aspx" />
-    <Content Include="stam.aspx" />
     <Content Include="User Profile.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -219,13 +218,6 @@
     </Compile>
     <Compile Include="SignMaster.Master.designer.cs">
       <DependentUpon>SignMaster.Master</DependentUpon>
-    </Compile>
-    <Compile Include="stam.aspx.cs">
-      <DependentUpon>stam.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="stam.aspx.designer.cs">
-      <DependentUpon>stam.aspx</DependentUpon>
     </Compile>
     <Compile Include="User Profile.aspx.cs">
       <DependentUpon>User Profile.aspx</DependentUpon>
