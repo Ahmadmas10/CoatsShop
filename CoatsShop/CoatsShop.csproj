@@ -100,6 +100,7 @@
     <Content Include="ForgetPass.aspx" />
     <Content Include="Home Sign.aspx" />
     <Content Include="Home User.aspx" />
+    <Content Include="items.aspx" />
     <Content Include="log out.aspx" />
     <Content Include="Mail Box.aspx" />
     <Content Include="Sign in.aspx" />
@@ -175,6 +176,13 @@
     </Compile>
     <Compile Include="Home User.aspx.designer.cs">
       <DependentUpon>Home User.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="items.aspx.cs">
+      <DependentUpon>items.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="items.aspx.designer.cs">
+      <DependentUpon>items.aspx</DependentUpon>
     </Compile>
     <Compile Include="log out.aspx.cs">
       <DependentUpon>log out.aspx</DependentUpon>
